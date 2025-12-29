@@ -161,7 +161,7 @@ docker-compose exec app npm test
 docker-compose exec app npm run coverage
 ```
 
-Code coverage is **≥ 80%**, satisfying submission requirements.
+Code coverage is **≥ 80%**.
 
 ---
 
